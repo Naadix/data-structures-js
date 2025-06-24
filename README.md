@@ -1,20 +1,26 @@
-# Search and Sort Algorithms in JavaScript
+# 📦 Data Structures & Algorithms in JavaScript
 
-This repository includes common searching and sorting algorithms implemented in JavaScript.
+This repository contains core data structure implementations and practice problems written in JavaScript. It's designed as a personal learning archive to strengthen my problem-solving and algorithmic thinking.
 
-## 🔍 Searching Algorithms
-- Linear Search
-- Binary Search
+---
 
-## 🔃 Sorting Algorithms
-- Bubble Sort
-- Insertion Sort
-- Selection Sort
-- Merge Sort
-- Quick Sort
+## 📘 Contents
 
-## 📁 How to use
-Each file includes a simple function and example usage.
+- ✅ Stack (Push, Pop, Peek, isEmpty)
+- ✅ Queue (Enqueue, Dequeue)
+- ✅ Linked List
+- 🧠 Exercises & Challenges for each structure
+
+All code is written in a **single file** (`dataStructures.js`) and organized by sections using clear comments.
+
+---
 
 ## 🧠 Purpose
-To practice and share basic algorithm logic using JavaScript.
+
+To practice implementing basic data structures from using JavaScript.
+
+---
+
+## 🛠 Technologies
+
+- JavaScript (ES6+)
